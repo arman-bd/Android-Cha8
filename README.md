@@ -1,6 +1,6 @@
 # Android Cha8 - Minimal Chatting Application
 
-[![Cha8 - Android Chatting Application](https://img.youtube.com/vi/Zvp8iEK9aMU/0.jpg)](https://www.youtube.com/watch?v=Zvp8iEK9aMU
+[![Cha8 - Android Chatting Application](https://img.youtube.com/vi/Zvp8iEK9aMU/0.jpg)](https://www.youtube.com/watch?v=Zvp8iEK9aMU)
 
 ## Please Install PHP Scripts along With MySQL Database
 
